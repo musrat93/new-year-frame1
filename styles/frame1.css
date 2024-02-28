@@ -3,3 +3,41 @@ body {
     font-optical-sizing: auto;
     font-style: normal;
 }
+
+/* -------------common styles------------ */
+.banner-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*------------- header related styles------------------ */
+.header {
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    height: 808px;
+    width: 100%;
+
+}
+
+.banner-container {
+    text-align: right;
+    padding: 200px 230px 180px 840px;
+
+}
+
+.banner-title {
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.banner-btn {
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    background: #F15B22;
+    padding: 15px 18px;
+    margin-top: 30px;
+}
