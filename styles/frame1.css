@@ -41,3 +41,64 @@ body {
     padding: 15px 18px;
     margin-top: 30px;
 }
+
+/*------------------- person related styles-------------------- */
+.person-container {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-left: 210px;
+    margin-top: 140px;
+}
+
+.person-container img {
+    width: 450px;
+
+}
+
+.person-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.person-detailes {
+    margin-right: 320px;
+}
+
+.fa-check {
+    color: #16D887;
+}
+
+/*-------------------- plan related styles---------------- */
+#my-plan {
+    text-align: center;
+    margin: 200px 230px 0 230px;
+
+
+}
+
+.plan-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+
+}
+
+.plan-iteam img {
+    width: 90px;
+}
+
+.plan-title {
+    color: #151414;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.plan-description {
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+
+}
