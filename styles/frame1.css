@@ -102,3 +102,103 @@ body {
     font-size: 25px;
 
 }
+
+/* -------------------watch related styles---------------------- */
+.watch-container {
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    height: 300px;
+    margin: 130px 230px;
+    border-radius: 10px;
+}
+
+.watchman {
+    padding: 50px;
+}
+
+.watch-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.watch-btn {
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    padding: 20px 30px;
+}
+
+/* ---------------------footer related styles------------------ */
+.footer {
+    background-color: #151414;
+    display: flex;
+    gap: 300px;
+    padding: 130px 230px;
+}
+
+.footer-column {
+    width: 100%;
+}
+
+.future-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.subscribe-title {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.footer-description {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+.email {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 15px;
+}
+
+.phone {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.contact input[type="email"] {
+    display: block;
+    margin-bottom: 16px;
+    width: 100%;
+    color: #F3F3F3;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+}
+
+.Subscribe-btn {
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 20px 30px;
+}
+
+.icon-iteam {
+    margin-right: 35px;
+    height: 45px;
+}
